@@ -1,4 +1,4 @@
-- The notebook focuses on Reinforcement Learning, a machine learning paradigm where the model learns by exploring an environment, making decisions, and receiving feedback in the form of rewards. Unlike traditional supervised learning, reinforcement learning doesn't rely on a predefined dataset but allows the model to generate its own examples through interaction with the environment.
+The notebook focuses on Reinforcement Learning, a machine learning paradigm where the model learns by exploring an environment, making decisions, and receiving feedback in the form of rewards. Unlike traditional supervised learning, reinforcement learning doesn't rely on a predefined dataset but allows the model to generate its own examples through interaction with the environment.
 
 Terminology:
 The notebook introduces key concepts in reinforcement learning:
